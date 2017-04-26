@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "826201095225",
+    "firebase_url": "https://testfbmclase.firebaseio.com",
+    "project_id": "testfbmclase",
+    "storage_bucket": "testfbmclase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826201095225:android:bf790301d1cdae11",
+        "android_client_info": {
+          "package_name": "com.example.luiscobian.testfbmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826201095225-o9q6ootq5o4dlrio4kgum08mrhno31g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQPrTC1R_5UvyxXc9An-5N-_wWQ7X7pIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
